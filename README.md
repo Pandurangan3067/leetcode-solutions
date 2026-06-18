@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -40,5 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
