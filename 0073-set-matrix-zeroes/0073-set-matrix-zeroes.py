@@ -1,16 +1,20 @@
 class Solution:
-    def setZeroes(self, mi: List[List[int]]) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
-        l=[]
-        m,n=len(mi),len(mi[0])
-        for i in range(m):
-            for j in range(n):
-                if mi[i][j]==0:
-                    l.append([i,j])
-        for i in l:
-            for j in range(n):
-                mi[i[0]][j]=0
-            for k in range(m):
-                mi[k][i[1]]=0
+    def setZeroes(self, matrix: List[List[int]]) -> None:
+        r = len(matrix)
+        c = len(matrix[0])
+
+        rowtrack = [0] * r
+        coltrack = [0] * c
+
+        # Mark rows and columns containing 0
+        for i in range(r):
+            for j in range(c):
+                if matrix[i][j] == 0:
+                    rowtrack[i] = -1
+                    coltrack[j] = -1
+
+        # Set elements to 0
+        for i in range(r):
+            for j in range(c):
+                if rowtrack[i] == -1 or coltrack[j] == -1:
+                    matrix[i][j] = 0
