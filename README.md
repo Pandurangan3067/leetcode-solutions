@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0989-add-to-array-form-of-integer](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
+## Math
+|  |
+| ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
