@@ -3,7 +3,6 @@ class Solution:
     def mostCommonWord(self, p: str, banned: List[str]) -> str:
         s = re.sub(r"[!?',;.]", " ", p)
         s=s.lower().split()
-        print(s)
         d={}
         for w in s:
             if w not in d:
@@ -11,7 +10,6 @@ class Solution:
             else:
                 d[w]+=1
         d = dict(sorted(d.items(), key=lambda x: x[1],reverse=True))
-        print(d)
         for i,j in d.items():
             if i in banned:
                 continue
