@@ -9,5 +9,4 @@ class Solution:
                     break
             if f[i]!=-1:
                 c+=1
-            print(c)
         return c
