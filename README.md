@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
