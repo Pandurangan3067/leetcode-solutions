@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3452-sum-of-good-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
