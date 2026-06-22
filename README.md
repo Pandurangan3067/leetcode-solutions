@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
@@ -92,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Math
