@@ -143,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
