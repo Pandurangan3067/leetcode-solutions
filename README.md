@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
 | [0832-flipping-an-image](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
@@ -170,8 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
