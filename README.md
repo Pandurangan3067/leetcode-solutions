@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0965-univalued-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0965-univalued-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0965-univalued-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
