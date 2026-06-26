@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0504-base-7](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0504-base-7) |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -189,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
