@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
