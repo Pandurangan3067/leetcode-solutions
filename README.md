@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3174-clear-digits](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3174-clear-digits](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
