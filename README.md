@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
