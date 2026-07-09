@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1518-water-bottles) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
