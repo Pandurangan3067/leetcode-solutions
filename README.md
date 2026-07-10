@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0504-base-7) |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
