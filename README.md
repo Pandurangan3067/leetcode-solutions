@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0504-base-7](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0504-base-7) |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
