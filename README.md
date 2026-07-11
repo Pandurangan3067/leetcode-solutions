@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3174-clear-digits](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3794-reverse-string-prefix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [3794-reverse-string-prefix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
