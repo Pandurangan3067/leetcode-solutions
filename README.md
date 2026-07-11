@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3452-sum-of-good-numbers](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
