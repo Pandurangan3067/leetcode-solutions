@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3174-clear-digits](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3794-reverse-string-prefix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3174-clear-digits](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
