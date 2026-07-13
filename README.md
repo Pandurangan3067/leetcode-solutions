@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1539-kth-missing-positive-number](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
