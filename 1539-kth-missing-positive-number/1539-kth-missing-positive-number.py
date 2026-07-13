@@ -1,8 +1,12 @@
 class Solution:
-    def findKthPositive(self, a: List[int], k: int) -> int:
-        for i in range(1,max(a)+k+1):
-            if i not in a:
-                k-=1
-                print(i,k)
-            if k==0:
-                return i 
+    def findKthPositive(self, arr: List[int], k: int) -> int:
+        low = 0
+        high = len(arr)-1
+        while low<=high:
+            mid = (low+high)//2
+            missing = arr[mid]-(mid+1)
+            if missing < k:
+                low=mid+1
+            else:
+                high = mid-1
+        return k+high+1
