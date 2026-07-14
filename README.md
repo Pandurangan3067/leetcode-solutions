@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3731-find-missing-elements](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
