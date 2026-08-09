@@ -8,7 +8,7 @@ class Solution:
                 if m<c:
                     m=c
                 c=0
-                print(m)
+
         if m<c:
             m=c
         return m
