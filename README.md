@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -312,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pandurangan3067/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
